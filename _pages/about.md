@@ -27,7 +27,26 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My Research Interests
+•	Computational chemistry
+•	Organic chemistry 
+•	Biological Chemistry 
+
+My Applicable Skills
+
+Computational & Chemistry Expertise
+•	Molecular Modeling: Expert in techniques including protein modeling, molecular dynamics (Desmond, Gromacs, and YASARA), and peptide design
+•	Cheminformatics & Quantum Mechanics: Skilled in Cheminformatics (QSAR) 12and quantum mechanical calculations (Gaussian)
+•	Programming & Software: Proficient in programming (Python, R) and various chemistry packages such as Chem Office, PyMol, Auto dock, PyRx, Discovery Studio, ChimeraX, VMD, Gaussian, and Chemdraw
+•	Statistical Tools & OS: Experienced with statistical analysis tools (MS Excel, SPSS, MS Word, MS PowerPoint) and operating systems (Windows, Linux)
+
+Research and Publication Skills 
+•	Excellent scientific research ability
+•	Knowledge of APA and MPA referencing styles
+•	Excellent written and verbal communication skills
+•	Proficient with MS and Google Docs
+<img width="468" height="390" alt="image" src="https://github.com/user-attachments/assets/61e463a9-9c2a-412e-b674-5f3c68950cf2" />
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
